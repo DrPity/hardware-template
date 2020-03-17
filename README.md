@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Grep one of our lovely **feather ethernet shields**
+1. Can be usaed with most Arduino compatible devices - this guide uses a **feather ethernet shields**
 2. Install platformio
    `$ brew install platformio`
 3. open the project and start writing code in the `main.cpp`
