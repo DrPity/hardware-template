@@ -6,7 +6,7 @@
 
 ## Usage
 
-1. Can be used with most **Arduino** compatible devices - this guide uses a **feather ethernet shields**
+1. Can be used with most **Arduino** compatible devices - this guide uses a **Feather M0 + ethernet shields**
 2. Install platformio
    `$ brew install platformio`
 3. open the project and start writing code in the `main.cpp`
